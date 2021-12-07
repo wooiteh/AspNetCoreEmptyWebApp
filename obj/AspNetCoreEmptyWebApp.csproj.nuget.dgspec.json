@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\data\\workspace\\runner_service\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj": {}
+    "C:\\Data\\workspace\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj": {}
   },
   "projects": {
-    "C:\\data\\workspace\\runner_service\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj": {
+    "C:\\Data\\workspace\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\data\\workspace\\runner_service\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj",
+        "projectUniqueName": "C:\\Data\\workspace\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj",
         "projectName": "AspNetCoreEmptyWebApp",
-        "projectPath": "C:\\data\\workspace\\runner_service\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj",
+        "projectPath": "C:\\Data\\workspace\\AspNetCoreEmptyWebApp\\AspNetCoreEmptyWebApp.csproj",
         "packagesPath": "C:\\Users\\william\\.nuget\\packages\\",
-        "outputPath": "C:\\data\\workspace\\runner_service\\AspNetCoreEmptyWebApp\\obj\\",
+        "outputPath": "C:\\Data\\workspace\\AspNetCoreEmptyWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\william\\AppData\\Roaming\\NuGet\\NuGet.Config",
