@@ -1,0 +1,7 @@
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\AspNetCoreEmptyWebApp.exe
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\appsettings.json
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\AspNetCoreEmptyWebApp.dll
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\AspNetCoreEmptyWebApp.deps.json
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\AspNetCoreEmptyWebApp.runtimeconfig.json
+C:\Data\workspace\AspNetCoreEmptyWebApp\bin\Release\net5.0\publish\AspNetCoreEmptyWebApp.pdb

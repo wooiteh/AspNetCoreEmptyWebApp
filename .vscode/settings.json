@@ -1,0 +1,8 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin\\Release\\net5.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/3b0ce0b9-05f9-4985-b5c9-9b2c0725c44d/resourceGroups/azureappgroup/providers/Microsoft.Web/sites/wesoft12",
+    "github-actions.workflows.pinned.workflows": [".github/workflows/build.yml", ".github/workflows/create.yml"],
+    "github-actions.workflows.pinned.refresh.enabled": true,
+    "github-actions.workflows.pinned.refresh.interval": 65,
+}
